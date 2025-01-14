@@ -1,2 +1,2 @@
-nhóm 8
+nhóm 8:
 NHẬT TRÂM PHƯƠNG
